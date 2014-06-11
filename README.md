@@ -1,4 +1,4 @@
-plmy-blog
-=========
+Philomathery
+============
 
-General blogspace for Philomathery
+General project space for Philomathery.
